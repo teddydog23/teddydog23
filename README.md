@@ -18,4 +18,9 @@ I'm currently learning Data Science & Artificial Intelligence at Hanoi Universit
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+a+Software+Engineer;I+love+coding+and+open+source!)](https://git.io/typing-svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+_generated with [Platane/snk](https://github.com/Platane/snk)_
