@@ -13,6 +13,8 @@ I'm currently learning Data Science & Artificial Intelligence at Hanoi Universit
 ![](https://github-readme-stats.vercel.app/api?username=teddydog23&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=teddydog23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
+<img align="right" alt="GIF" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="400"/>
+
 [![](https://visitcount.itsvg.in/api?id=teddydog23&icon=1&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
