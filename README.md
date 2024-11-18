@@ -25,3 +25,4 @@ I'm currently learning Data Science & Artificial Intelligence at Hanoi Universit
 </picture>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="400"/>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
