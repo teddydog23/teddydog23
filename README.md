@@ -24,4 +24,4 @@ I'm currently learning Data Science & Artificial Intelligence at Hanoi Universit
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-![](https://komarev.com/ghpvc/?username=johnDoe&color=blue&style=flat-square)
+<img align="right" alt="GIF" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="400"/>
